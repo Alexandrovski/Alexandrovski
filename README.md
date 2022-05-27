@@ -1,0 +1,10 @@
+- 👋 Hi, I’m Yuri Alexandrovski 
+- 👀 I’m interested in sales, early stage startups, b2b saas, beginner python, skiing and good food.
+- 🌱 I’m currently learning python, spanish and cooking.
+- 💞️ I’m looking to collaborate on building prototypes and testing startup ideas.
+- 📫 How to reach me 408-314-0937 or at yura.a.alexandrovski@gmail.com
+
+<!---
+Alexandrovski/Alexandrovski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
