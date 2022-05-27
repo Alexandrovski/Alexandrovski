@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Yuri Alexandrovski 
+- 👋 Hi, I’m Yuri Alexandrovski, born in Moscow and live in San Francisco.
 - 👀 I’m interested in sales, early stage startups, b2b saas, beginner python, skiing and good food.
-- 🌱 I’m currently learning python, spanish and cooking.
+- 🌱 I’m currently learning python, cooking and reading Zones of Thought (scifi).
 - 💞️ I’m looking to collaborate on building prototypes and testing startup ideas.
 - 📫 How to reach me 408-314-0937 or at yura.a.alexandrovski@gmail.com
 
